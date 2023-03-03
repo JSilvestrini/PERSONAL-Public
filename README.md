@@ -9,7 +9,7 @@ Chances are the first project under each language will be a simple "Hello, World
 
 I will have the programs ordered by the time they were completed rather than difficulty, however the difficulty will most likely scale the further into a language the project is.
 
-https://github.com/JSilvestrini/PERSONAL-Private
+https://gitfront.io/r/JSilvestrini/84P1JNrx9iwg/PERSONAL-Private/
 
 ##
 ## C#
